@@ -1,10 +1,6 @@
 # Streamlit SDXL Turbo Demo 
 
-[](./static/sdxl_turbo.mp4)
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
+https://github.com/animebing/streamlit_sdxl_turbo/assets/19849456/c8c8572b-9353-4878-962d-e62f1a8d3630
 
 ## Getting Started
 
